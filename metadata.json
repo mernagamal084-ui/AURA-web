@@ -1,0 +1,6 @@
+{
+  "name": "AURA SKIN | Luxury Hydration & Barrier Science",
+  "description": "An extraordinary animated luxury skincare experience featuring high-performance ceramides, pure hydration, and dewy barrier science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
